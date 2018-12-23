@@ -1,0 +1,32 @@
+{
+    "name": "Dr. Christian Lechner",
+    "city": "Hauzenberg",
+    "country": "Germany",
+    "work": {
+        "organization": "4process AG",
+        "role": "Senior Solution Architect",
+        "url": "https://www.4process.de/"
+    },
+    "focusAreas": {
+        "topic1": "SAP Extensions",
+        "topic2": "Cloud Native Dev",
+        "topic3": "Serverless"
+    },
+    "socialMedia": {
+        "GitHub": {
+            "url": "https://github.com/lechnerc77"
+        },
+        "LinkedIn": {
+            "url": "https://www.linkedin.com/in/christian-lechner-963b7017/"
+        },
+        "Twitter": {
+            "url": "https://twitter.com/lechnerc77"
+        },
+        "Xing": {
+            "url": "https://www.xing.com/profile/Christian_Lechner14/cv"
+        },
+        "SAPCommunity": {
+            "url": "https://people.sap.com/christian.lechner#overview"
+        }
+    }
+}

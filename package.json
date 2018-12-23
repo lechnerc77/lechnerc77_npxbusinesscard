@@ -1,0 +1,31 @@
+{
+    "name": "lechnerc77_npxcard",
+    "version": "1.0.0",
+    "description": "NPX Business Card",
+    "main": "index.js",
+    "bin": {
+        "lechnerc77_npxcard": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lechnerc77/lechnerc77_npxbusinesscard.git"
+    },
+    "keywords": [
+        "NPX",
+        "Business",
+        "Card",
+        "Contact",
+        "lechnerc77"
+    ],
+    "author": "Christian Lechner",
+    "license": "MIT",
+    "homepage": "https://github.com/lechnerc77/lechnerc77_npxbusinesscard#readme",
+    "dependencies": {
+        "cfonts": "^2.3.0",
+        "inquirer": "^6.2.1",
+        "opn": "^5.4.0"
+    }
+}
