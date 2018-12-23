@@ -1,10 +1,10 @@
 {
-    "name": "lechnerc77_npxcard",
+    "name": "lechnerc77_npxbizcard",
     "version": "1.0.0",
     "description": "NPX Business Card",
     "main": "index.js",
     "bin": {
-        "lechnerc77_npxcard": "./index.js"
+        "lechnerc77_npxbizcard": "./index.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
