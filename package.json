@@ -26,6 +26,6 @@
     "dependencies": {
         "cfonts": "^2.3.0",
         "inquirer": "^6.2.1",
-        "opn": "^5.4.0"
+        "opn": "^6.0.0"
     }
 }
